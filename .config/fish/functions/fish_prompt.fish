@@ -1,0 +1,1 @@
+/home/p41nt/.local/share/omf/themes/eden/fish_prompt.fish
